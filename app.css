@@ -1,0 +1,78 @@
+body {
+    background-color: #ccc9e7;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+h1 {
+    font-family: 'Londrina Sketch', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: #f5cce8
+}
+h2 {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 30px;
+    color: #44355b
+}
+p {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    padding: 10px;
+    color: #7d84b2;
+}
+ul {
+    padding: 10px;
+    text-align: center;
+}
+li {
+    padding: 0px 10px 0px 10px;
+    color: #7d84b2;
+}
+header {
+    background: url(images/trees.jpg);
+    background-size: cover;
+    
+}
+a {
+    color: white;
+}
+img {
+   border: solid 5px #b0b2b8;
+   border-radius: 15%;
+}
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px 16px;
+    border: 2px solid #b0b2b8;
+    border-radius: 15px;
+    background: #ccc9e7;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ccc9e7), to(#44355b));
+    background: -moz-linear-gradient(top, #ccc9e7, #44355b);
+    background: linear-gradient(to bottom, #ccc9e7, #44355b);
+    text-shadow: #591717 1px 1px 1px;
+    font: normal normal bold 20px comic sans ms;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 2px solid #cacdd4;
+    background: #f5f1ff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f5f1ff), to(#52406d));
+    background: -moz-linear-gradient(top, #f5f1ff, #52406d);
+    background: linear-gradient(to bottom, #f5f1ff, #52406d);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #7a798b;
+    background: -webkit-gradient(linear, left top, left bottom, from(#7a798b), to(#44355b));
+    background: -moz-linear-gradient(top, #7a798b, #44355b);
+    background: linear-gradient(to bottom, #7a798b, #44355b);
+}
+
+
