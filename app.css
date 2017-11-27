@@ -75,5 +75,7 @@ img {
     background: -moz-linear-gradient(top, #7a798b, #44355b);
     background: linear-gradient(to bottom, #7a798b, #44355b);
 }
-
+ol {
+  text-align: left;   
+}
 
