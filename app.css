@@ -33,6 +33,14 @@ li {
     text-align: left;
     font-family: 'Shadows Into Light', cursive;
 }
+div {
+    width: 100%;
+    text-align: center;
+}
+img {
+    width: 300px;
+    margin: 0 auto;
+}
 header {
     background: url(images/trees.jpg);
     background-size: cover;
