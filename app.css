@@ -8,13 +8,13 @@ body {
 }
 h1 {
     font-family: 'Londrina Sketch', cursive;
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     color: #f5cce8
 }
 h2 {
     font-family: 'Cabin Sketch', cursive;
-    font-size: 30px;
+    font-size: 20px;
     color: #44355b
 }
 p {
@@ -32,7 +32,6 @@ li {
     color: #7d84b2;
     text-align: left;
     font-family: 'Shadows Into Light', cursive;
-    font-size: 35px;
 }
 header {
     background: url(images/trees.jpg);
